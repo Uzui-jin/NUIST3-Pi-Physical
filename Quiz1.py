@@ -1,3 +1,4 @@
+##name: Zhao renzhe ID: 202283890024 Date: 06/04/2025
 # NUIST Quiz Game in python
 def quiz():
 	print("Welcome to animal Quzi")
